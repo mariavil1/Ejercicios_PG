@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clase_login/Clase_login.iml" filepath="$PROJECT_DIR$/Clase_login/Clase_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios_PG.iml" filepath="$PROJECT_DIR$/Ejercicios_PG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mesa-Flyweight/Mesa-Flyweight.iml" filepath="$PROJECT_DIR$/Mesa-Flyweight/Mesa-Flyweight.iml" />
+    </modules>
+  </component>
+</project>
